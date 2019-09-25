@@ -1,5 +1,10 @@
 package com.baizhi.entity;
 
+/*
+* 随便说的啥
+* 说什么都好
+*
+* */
 public class User {
     private String id;
     private String username;
