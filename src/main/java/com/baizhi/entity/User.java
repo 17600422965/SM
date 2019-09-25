@@ -3,7 +3,7 @@ package com.baizhi.entity;
 /*
 * 随便说的啥
 * 说什么都好
-*
+*9月25日下午：idea老哥，我也不知道说啥啊  我也随便回一句
 * */
 public class User {
     private String id;
